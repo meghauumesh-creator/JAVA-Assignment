@@ -9,7 +9,7 @@
 # 1.c)LinkedList-Reverse Iterate : https://github.com/meghauumesh-creator/JAVA-Assignment/blob/main/reverseiterate.png
 # 1.c)LinkedList-Insert End: https://github.com/meghauumesh-creator/JAVA-Assignment/blob/main/insertatend.png
 # 1.c)LinkedList-Display Position: https://github.com/meghauumesh-creator/JAVA-Assignment/blob/main/deisplayposition.png
-# 1.c)LinkedList-Sway Elements: https://github.com/meghauumesh-creator/JAVA-Assignment/blob/main/swapelements.png
+# 1.c)LinkedList-Swap Elements: https://github.com/meghauumesh-creator/JAVA-Assignment/blob/main/swapelements.png
 # 2.b)String Buffer and String Builder : https://github.com/meghauumesh-creator/JAVA-Assignment/blob/main/performancetest.png
 # 4.a)Swing Example : https://github.com/meghauumesh-creator/JAVA-Assignment/blob/main/swing1.png
 # 4.b)Button Example : https://github.com/meghauumesh-creator/JAVA-Assignment/blob/main/swing2.png
@@ -17,4 +17,4 @@
 # 5.a)JList Example : https://github.com/meghauumesh-creator/JAVA-Assignment/blob/main/swing4.png
 # 5.b)TabbedPnae Example : https://github.com/meghauumesh-creator/JAVA-Assignment/blob/main/swing5.png
 # 5.c)Country Capital Demo : https://github.com/meghauumesh-creator/JAVA-Assignment/blob/main/swing6.png
-# 5.d)TabbedPnae Demo : https://github.com/meghauumesh-creator/JAVA-Assignment/blob/main/swing7.png
+# 5.d)TabbedPane Demo : https://github.com/meghauumesh-creator/JAVA-Assignment/blob/main/swing7.png
