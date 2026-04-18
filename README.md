@@ -2,7 +2,7 @@
 1.a) ArrayList and LinkedList Operation : https://github.com/meghauumesh-creator/JAVA-Assignment/blob/main/program1.png
 1.b)ArrayList-Color: https://github.com/meghauumesh-creator/JAVA-Assignment/blob/main/color.png
 1.b)ArrayList-Remove color: https://github.com/meghauumesh-creator/JAVA-Assignment/blob/main/remove.png
-1.b)ArrayList-Sort Color: https://github.com/meghauumesh-creator/JAVA-Assignment/edit/main/README.md
+1.b)ArrayList-Sort Color: https://github.com/meghauumesh-creator/JAVA-Assignment/blob/main/sortedcolor.png
 1.b)ArrayList-Extract Color: https://github.com/meghauumesh-creator/JAVA-Assignment/edit/main/README.md
 1.b)ArrayList-Delete Color: https://github.com/meghauumesh-creator/JAVA-Assignment/blob/main/deletecolor.png
 1.c)LinkedList-Iterate From Second: https://github.com/meghauumesh-creator/JAVA-Assignment/edit/main/README.md
