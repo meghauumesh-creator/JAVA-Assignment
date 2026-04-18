@@ -1,6 +1,6 @@
 # JAVA-Assignment
 1.a) ArrayList and LinkedList Operation : https://github.com/meghauumesh-creator/JAVA-Assignment/blob/main/README.md
-1.b)ArrayList-Color: https://github.com/meghauumesh-creator/JAVA-Assignment/edit/main/README.md
+1.b)ArrayList-Color: https://github.com/meghauumesh-creator/JAVA-Assignment/blob/main/color.png
 1.b)ArrayList-Remove color: https://github.com/meghauumesh-creator/JAVA-Assignment/edit/main/README.md
 1.b)ArrayList-Sort Color: https://github.com/meghauumesh-creator/JAVA-Assignment/edit/main/README.md
 1.b)ArrayList-Extract Color: https://github.com/meghauumesh-creator/JAVA-Assignment/edit/main/README.md
