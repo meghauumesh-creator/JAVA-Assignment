@@ -4,7 +4,7 @@
 1.b)ArrayList-Remove color: https://github.com/meghauumesh-creator/JAVA-Assignment/edit/main/README.md
 1.b)ArrayList-Sort Color: https://github.com/meghauumesh-creator/JAVA-Assignment/edit/main/README.md
 1.b)ArrayList-Extract Color: https://github.com/meghauumesh-creator/JAVA-Assignment/edit/main/README.md
-1.b)ArrayList-Delete Color: https://github.com/meghauumesh-creator/JAVA-Assignment/edit/main/README.md
+1.b)ArrayList-Delete Color: https://github.com/meghauumesh-creator/JAVA-Assignment/blob/main/deletecolor.png
 1.c)LinkedList-Iterate From Second: https://github.com/meghauumesh-creator/JAVA-Assignment/edit/main/README.md
 1.c)LinkedList-Reverse Iterate : https://github.com/meghauumesh-creator/JAVA-Assignment/edit/main/README.md
 1.c)LinkedList-Insert End: https://github.com/meghauumesh-creator/JAVA-Assignment/edit/main/README.md
