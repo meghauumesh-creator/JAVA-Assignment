@@ -15,6 +15,7 @@
 # 2. https://github.com/meghauumesh-creator/JAVA-Assignment/blob/main/StringHandlingDemo2.png
 # 3. https://github.com/meghauumesh-creator/JAVA-Assignment/blob/main/StringHandlingDemo3.png                           
 # 2.b)String Buffer and String Builder : https://github.com/meghauumesh-creator/JAVA-Assignment/blob/main/performancetest.png
+# 3.b)String Demo : https://github.com/meghauumesh-creator/JAVA-Assignment/blob/main/StringDemo.png
 # 4.a)Swing Example : https://github.com/meghauumesh-creator/JAVA-Assignment/blob/main/swing1.png
 # 4.b)Button Example : https://github.com/meghauumesh-creator/JAVA-Assignment/blob/main/swing2.png
 # 4.c)Image Button Demo : https://github.com/meghauumesh-creator/JAVA-Assignment/blob/main/swing3.png
