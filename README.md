@@ -25,3 +25,6 @@
 # 5.d)TabbedPane Demo : https://github.com/meghauumesh-creator/JAVA-Assignment/blob/main/swing7.png
 # 11.a)Sql Select : https://github.com/meghauumesh-creator/JAVA-Assignment/blob/main/Sql_Select.png
 # 11.b)Coffee Update Demo : https://github.com/meghauumesh-creator/JAVA-Assignment/blob/main/CoffeeUpdateDemo.png
+# 11.c)Employee Salary Report : https://github.com/meghauumesh-creator/JAVA-Assignment/blob/main/EmpSalaryReport.png
+# 12.a)Coffee Delete Demo : https://github.com/meghauumesh-creator/JAVA-Assignment/blob/main/CoffeeDeleteDemo.png
+# 12 b)Coffee Query Demo : https://github.com/meghauumesh-creator/JAVA-Assignment/blob/main/CoffeeQueryDemo.png
